@@ -1,2 +1,2 @@
 # salt
-salt setup
+salt setu..p

@@ -1,3 +1,4 @@
 base:
   '*':
-  - hello
+  - hello 
+  - gimp2

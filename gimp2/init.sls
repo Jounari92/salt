@@ -1,3 +1,3 @@
-gimp2:
+gimp:
   pkg.installed
 
